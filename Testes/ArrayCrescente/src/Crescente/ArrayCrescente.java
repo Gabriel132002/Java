@@ -14,6 +14,8 @@ public class ArrayCrescente {
         System.out.println(x);
 
         System.out.println("Branch renomeada");
+        System.out.println("Testando novamente");
         System.out.println("Exclusão de arquivos");
+
     }
 }
